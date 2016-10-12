@@ -1,1 +1,1 @@
-# wp-pantheon-behat
+# wp-pantheon-behat.
